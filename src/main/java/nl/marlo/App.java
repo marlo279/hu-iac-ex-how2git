@@ -1,7 +1,9 @@
-package nl.rkuijt;
+package nl.marlo;
+
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import nl.rkuijt.domain.Goose;
+import nl.marlo.domain.Goose;
+
 
 import java.io.File;
 import java.io.IOException;
