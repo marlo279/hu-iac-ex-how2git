@@ -119,16 +119,16 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 Index: data.json
 IDEA additional info:
 Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
-<+>{\"name\":\"Untitled\",\"sound\":\"HONK!\",\"size\":70,\"password\":\"***REMOVED***\"}
+<+>{\"name\":\"Untitled\",\"sound\":\"HONK!\",\"size\":70,\"password\":\"S3cr37G005eP@ssword!\"}
 Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 --- data.json	(revision f44d0fab8078734b8959259f5efb8582f278fa63)
 +++ data.json	(date 1594579814970)
 @@ -1,1 +1,1 @@
--{"name":"Untitled","sound":"HONK!","size":70,"password":"***REMOVED***"}
+-{"name":"Untitled","sound":"HONK!","size":70,"password":"S3cr37G005eP@ssword!"}
 \ No newline at end of file
-+{"name":"Untitled","sound":"HONK!","size":34,"password":"***REMOVED***"}
++{"name":"Untitled","sound":"HONK!","size":34,"password":"S3cr37G005eP@ssword!"}
 \ No newline at end of file
 Index: hu-iac-ex-how2git.iml
 IDEA additional info:
